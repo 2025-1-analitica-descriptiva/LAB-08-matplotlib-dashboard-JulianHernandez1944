@@ -31,7 +31,7 @@ Tenga en cuenta los siguientes cambios respecto al video:
 Ejecute los siguientes comandos en el terminal:
 
 ```bash
-python3 -m venv .venv
+python3.11 -m venv .venv
 source .venv/bin/activate
 source setup.sh
 ```
